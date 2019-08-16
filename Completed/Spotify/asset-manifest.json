@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Completed/Spotify/static/css/main.ccf25aea.chunk.css",
+    "main.js": "/Completed/Spotify/static/js/main.c48ce3b2.chunk.js",
+    "main.js.map": "/Completed/Spotify/static/js/main.c48ce3b2.chunk.js.map",
+    "runtime~main.js": "/Completed/Spotify/static/js/runtime~main.985fed34.js",
+    "runtime~main.js.map": "/Completed/Spotify/static/js/runtime~main.985fed34.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/Completed/Spotify/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/Completed/Spotify/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/Completed/Spotify/index.html",
+    "precache-manifest.803567ad6490b1ac114622308d066c9d.js": "/Completed/Spotify/precache-manifest.803567ad6490b1ac114622308d066c9d.js",
+    "service-worker.js": "/Completed/Spotify/service-worker.js",
+    "static/css/main.ccf25aea.chunk.css.map": "/Completed/Spotify/static/css/main.ccf25aea.chunk.css.map",
+    "static/media/App.css": "/Completed/Spotify/static/media/background_photo_desktop.f2a59d08.jpg"
+  }
+}
